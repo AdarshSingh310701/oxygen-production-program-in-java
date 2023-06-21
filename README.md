@@ -1,0 +1,2 @@
+# oxygen-production-program-in-java
+Across the world, millions of plants produce oxygen for millions of people. Levi is experimenting with oxygen production in an airtight room. He calculates the total number of plants that can be placed in a room based on the floor area of the room. Plant sets should be a multiple of 10, and if not, they should be rounded to the nearest and lowest multiple of 10. Also, a mature plant produces 0.9 litres of oxygen per day. Calculate the total production of oxygen based on the total number of plants in the room using a Java program.
